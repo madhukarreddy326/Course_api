@@ -1,0 +1,8 @@
+topics related methods and url
+
+
+GET			/topics			To Get All topics
+GET			/topics/id		To Get Details of One topic
+POST		/topics			To Create an Topic
+PUT			/topics/id		To update and existing topic
+DELETE		/topics/id		To Delete and existing topic
